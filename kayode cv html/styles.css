@@ -1,0 +1,95 @@
+* {
+    padding: 0.1fr;
+    margin: 0.1fr;
+}
+
+body {
+    background-color: #0b032d;
+}
+
+main {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: px;
+    border: 2px solid gray;
+    background-color: #0b032d;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 14px;
+    border-style: outset;
+}
+
+h1 {
+    color: #f6d55c;
+    text-align: center;
+}
+
+.education {
+    text-align: center;
+}
+
+h3 {
+    color: #907163;
+    text-decoration: none;
+}
+
+h3 {
+    color: #621940;
+    text-decoration: underline;
+}
+
+.contact h4 {
+    color: #621940;
+}
+
+.education {
+    color: #ffb997;
+}
+
+.skills {
+    color: #ffb997;
+}
+
+h4 {
+    font-style: italic;
+    color: #907163;
+    text-align: center;
+}
+
+p {
+    margin-top: -15px;
+    color: #ffb997;
+    font-size: 15px;
+    /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+}
+
+.hob {
+    color: 15px;
+    color: #ffb997;
+}
+
+section {
+    display: inline-block;
+    border: 3px rgb ( 154, 214, 154);
+    vertical-align: middle;
+    max-width: max-content;
+    background-color: #0b032d;
+    height: max-content;
+    max-width: max-content;
+    border-radius: 14px;
+    border-style: outset;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+main section {
+    border: 12px solid white;
+}
+
+.header h4 {
+    text-align: center;
+}
